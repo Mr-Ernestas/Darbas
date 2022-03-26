@@ -1,2 +1,2 @@
-Baigiamasis Darbas
+Game made with pygame
 
