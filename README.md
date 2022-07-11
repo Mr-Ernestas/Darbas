@@ -1,26 +1,18 @@
-### Use the following features to request detail about patiens and to create/update patients or patients info.
+# Enterprise API
+
+#### Get ENT accounts using AE user
+
+Takes in an enterprise account ID and returns the account details.
+
+|Variable|Input |
+|:------:|:----:|
+|Role    |API_AE|
+|Method  |GET   |
+|Service |GET ENT ACCOUNTS|
+<p>&nbsp;</p>
+
+![MicrosoftTeams-image](https://user-images.githubusercontent.com/85736827/178256986-b1773bea-6f25-45b1-aab3-2d16dc5fb577.png)
 
 
-# On this page
+<p>&nbsp;</p>
 
-Features
-
-- get_patient_detail
-- create_patient[^1]
-- update_patient
-- search_patient_in_bucket
-- get_patient_attachments
-
-
-
-
-[^1]: # Create_patient
-
-       This method is used to create a new patient via API.
-
-       Required fields to be filled
-
-       |About        |info      |
-       |  :-------:  |:--------:|
-       |Patient_info |information about the patient in 'dict' format that is necessary for making a request.|
-       |Clinic_id    |id of available clinic in integer format   | 
