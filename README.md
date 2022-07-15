@@ -8,9 +8,17 @@ An application programming interface (API) is a way for two or more computer pro
 
 When you use an application on your mobile phone, the application connects to the Internet and sends data to a server. The server then retrieves that data, interprets it, performs the necessary actions and sends it back to your phone. The application then interprets that data and presents you with the information you wanted in a readable way. 
 
+<p>&nbsp;</p>
+
+# API Client
+API Client means the software that acts as the interface between Agency's computer and the server, which is already developed or to be developed by Agency.
 
 <p>&nbsp;</p>
+
+# REST(RESTful) API Definition
+Representational State Transfer (REST) is a software architecture that imposes conditions on how an API should work. REST was initially created as a guideline to manage communication on a complex network like the internet. You can use REST-based architecture to support high-performing and reliable communication at scale. You can easily implement and modify it, bringing visibility and cross-platform portability to any API system.
 <p>&nbsp;</p>
+
 
 # Enterprise API
 
@@ -30,15 +38,9 @@ Takes in an enterprise account ID and returns the account details.
 
 
 <p>&nbsp;</p>
-<p>&nbsp;</p>
 
-# REST(RESTful) API Definition
-Representational State Transfer (REST) is a software architecture that imposes conditions on how an API should work. REST was initially created as a guideline to manage communication on a complex network like the internet. You can use REST-based architecture to support high-performing and reliable communication at scale. You can easily implement and modify it, bringing visibility and cross-platform portability to any API system.
-<p>&nbsp;</p>
 
 ![Rest-Client-server](https://user-images.githubusercontent.com/85736827/178935149-90295356-4d6a-48e3-b701-5b743fe2dd58.png)
-
-<p>&nbsp;</p>
 
 
 # HTTP Request
