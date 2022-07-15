@@ -85,7 +85,20 @@ It describes the existing data format.It offers clear, human-readable, and machi
 |***412***|Precondition Failed	|Error returned when a pre-condition fails for the given API call. This is used to apply a form of warning response where the given API call has failed but can be called again with a force/bypass option included to ignore the warning and continue processing.|
 |***422***|Unprocessable Entity|Typical go-to error to indicate that some field value is bad, not allowed|
 |***500***|Unexpected Error	|Unexpected/Internal Error|
+<p>&nbsp;</p>
 
+# This is our code for User Authorization 
+![MicrosoftTeams-image (3)](https://user-images.githubusercontent.com/85736827/179182997-b01f8829-01cc-41a3-8e8a-9fc38a83471c.png)
+
+<p>&nbsp;</p>
+
+### In the first part of the code we giving user Class and creating Object of the Class and after that we call the methods of the Class:
+![Screenshot 2022-07-15 101358](https://user-images.githubusercontent.com/85736827/179183178-4b940ba2-82f3-4552-8bb8-6511bdb98fa3.png)
+
+<p>&nbsp;</p>
+
+### In the second part of the code we 
+![Screenshot 2022-07-15 101423](https://user-images.githubusercontent.com/85736827/179184925-339447ce-3f54-4901-a67a-d9e5d4c67a0a.png)
 
 
 
