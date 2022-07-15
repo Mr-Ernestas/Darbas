@@ -2,7 +2,7 @@
 
 #### What is API?
 
-An application programming interface (API) is a way for two or more computer programs to communicate with each other.
+An ***Application Programming Interface*** (API) is a way for two or more computer programs to communicate with each other.
 
 #### Simple example:
 
@@ -87,18 +87,21 @@ It describes the existing data format.It offers clear, human-readable, and machi
 |***500***|Unexpected Error	|Unexpected/Internal Error|
 <p>&nbsp;</p>
 
-# This is our code for User Authorization 
+
+# Here we collect all the data necessary to fulfill the request. It contains initializing client obj, getting all necessary data to fulfill the POST request to generate a token for a user: 
 ![MicrosoftTeams-image (3)](https://user-images.githubusercontent.com/85736827/179182997-b01f8829-01cc-41a3-8e8a-9fc38a83471c.png)
 
 <p>&nbsp;</p>
 
-### In the first part of the code we giving user Class and creating Object of the Class and after that we call the methods of the Class:
-![Screenshot 2022-07-15 101358](https://user-images.githubusercontent.com/85736827/179183178-4b940ba2-82f3-4552-8bb8-6511bdb98fa3.png)
+# Here we send data to API client, which is in this Framework and receiving token:
+
+![Screenshot 2022-07-15 122011](https://user-images.githubusercontent.com/85736827/179194680-5735582e-c980-44e1-b225-229b9729699e.png)
 
 <p>&nbsp;</p>
 
-### In the second part of the code we 
-![Screenshot 2022-07-15 101423](https://user-images.githubusercontent.com/85736827/179184925-339447ce-3f54-4901-a67a-d9e5d4c67a0a.png)
+# Here from received JSON data we are taking token and install it in such way that user use this token to request for authorization:
+
+![Screenshot 2022-07-15 122643](https://user-images.githubusercontent.com/85736827/179195518-fde88593-c082-4f27-9a62-646c565fcede.png)
 
 
 
