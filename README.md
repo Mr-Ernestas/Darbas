@@ -98,7 +98,7 @@ It describes the existing data format.It offers clear, human-readable, and machi
 
 # Here from received JSON data we are taking token and install it in such way that user use this token to request for authorization:
 
-![MicrosoftTeams-image (3)](https://user-images.githubusercontent.com/85736827/179455116-5dfd6ed3-c4f4-4eb4-aa0e-ce17b90cf3e1.png)
+![MicrosoftTeams-image (5)](https://user-images.githubusercontent.com/85736827/179457486-1782585f-7b8b-49d8-8e05-b8d1f256f6c5.png)
 
 <p>&nbsp;</p>
 <p>&nbsp;</p>
