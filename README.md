@@ -93,15 +93,20 @@ It describes the existing data format.It offers clear, human-readable, and machi
 
 <p>&nbsp;</p>
 
-# Here we send data to API client, which is in this Framework and receiving token:
-
-![Screenshot 2022-07-15 122011](https://user-images.githubusercontent.com/85736827/179194680-5735582e-c980-44e1-b225-229b9729699e.png)
 
 <p>&nbsp;</p>
 
 # Here from received JSON data we are taking token and install it in such way that user use this token to request for authorization:
 
-![Screenshot 2022-07-15 122643](https://user-images.githubusercontent.com/85736827/179195518-fde88593-c082-4f27-9a62-646c565fcede.png)
+![MicrosoftTeams-image (3)](https://user-images.githubusercontent.com/85736827/179455116-5dfd6ed3-c4f4-4eb4-aa0e-ce17b90cf3e1.png)
+
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+
+# Here we send data to API client, which is in this Framework and receiving token:
+
+![Screenshot 2022-07-18 092225](https://user-images.githubusercontent.com/85736827/179455013-a486989f-16b2-4ca5-ba26-53c39ab49d7c.png)
+
 
 
 
